@@ -1,6 +1,4 @@
-/*Je commence du plus gros au plus petit en CSS*/
-/*Le body sera toujours le premier élément sur lequel nous travaillons*/
-/*Si vous voulez des marges, une police en particulier, etc.*/
+/*body*/
 body {
     font-family: 'Nunito', sans-serif;
     max-width: 1100px;
